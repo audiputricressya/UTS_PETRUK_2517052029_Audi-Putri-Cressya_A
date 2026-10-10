@@ -1,0 +1,7 @@
+Senin;31.0
+Selasa;33.0
+Rabu;29.0
+Kamis;35.0
+Jumat;32.0
+Sabtu;30.0
+Minggu;28.0

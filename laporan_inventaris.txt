@@ -1,0 +1,7 @@
+===== LAPORAN INVENTARIS TOKO =====
+Jumlah jenis barang : 1
+Total nilai stok    : Rp 125,000,000
+Rata-rata harga     : Rp 25,000,000
+Barang termahal     : Laptop (Rp 25,000,000)
+Stok menipis (<= 5):
+  - Laptop (stok 5)
